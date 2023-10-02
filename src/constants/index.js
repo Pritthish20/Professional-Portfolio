@@ -27,7 +27,7 @@ import {
       icon: web,
     },
     {
-      title: "React JS Developer",
+      title: "Data Structures & Algorithms",
       icon: mobile,
     },
     {
