@@ -1,4 +1,4 @@
-import { BrowserRouter } from "react-router-dom";
+<import { BrowserRouter } from "react-router-dom";
 import {
   About,
   Contact,
@@ -19,7 +19,7 @@ const App = () => {
           <Navbar />
           <Hero />
           <StarsCanvas/>
-          
+          <TowerCanvas/>
           <About />
           <Tech />
           <Works />
