@@ -35,6 +35,7 @@ const Hero = () => {
           <button>
               <a
                 href="https://docs.google.com/document/d/1QWTybhRht4KU0_Mywa-cnicrDZvR8kL6-xxS-vXgwQA/edit?usp=sharing"
+                target="_blank"
                 class="px-5 py-2.5 relative rounded-2xl group font-medium text-white font-medium inline-block"
               >
                 <span class="absolute top-0 left-0 w-full h-full rounded-2xl opacity-50 filter blur-sm bg-gradient-to-br from-blue-100 to-blue-500"></span>
