@@ -50,7 +50,7 @@ const Works = () => {
           </div>
         </div>
         <div className="flex flex-row gap-10">
-          <Cards image={movie_counter} title="Movie-counter" />
+          <Cards className="absolute" image={movie_counter} title="Movie-counter" />
           <Cards
             className="absolute "
             image={weather_app}
