@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "jPort",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

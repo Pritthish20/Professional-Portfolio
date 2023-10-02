@@ -19,7 +19,6 @@ const App = () => {
           <Navbar />
           <Hero />
           <StarsCanvas/>
-          <TowerCanvas />
           <About />
           <Tech />
           <Works />
