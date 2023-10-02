@@ -1,0 +1,11 @@
+Model Information:
+* title:	DYSON RINGS
+* source:	https://sketchfab.com/3d-models/dyson-rings-781280bf2a3f4e8b923220106832df10
+* author:	Portal.Studio (https://sketchfab.com/Portal.Studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DYSON RINGS" (https://sketchfab.com/3d-models/dyson-rings-781280bf2a3f4e8b923220106832df10) by Portal.Studio (https://sketchfab.com/Portal.Studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

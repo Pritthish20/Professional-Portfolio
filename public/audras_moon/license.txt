@@ -1,0 +1,11 @@
+Model Information:
+* title:	AUDRA'S MOON
+* source:	https://sketchfab.com/3d-models/audras-moon-57dd65bd68cd4a1f9c60a381e947b94c
+* author:	Portal.Studio (https://sketchfab.com/Portal.Studio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "AUDRA'S MOON" (https://sketchfab.com/3d-models/audras-moon-57dd65bd68cd4a1f9c60a381e947b94c) by Portal.Studio (https://sketchfab.com/Portal.Studio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
