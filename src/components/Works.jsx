@@ -36,7 +36,7 @@ const Works = () => {
             </p>
             <button>
               <a
-                //target="_blank"
+                target="_blank"
                 href="https://github.com/Pritthish20?tab=repositories"
                 class="px-5 py-2.5 relative rounded group font-medium text-white font-medium inline-block"
               >
