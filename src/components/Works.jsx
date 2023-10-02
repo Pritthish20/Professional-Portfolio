@@ -37,7 +37,7 @@ const Works = () => {
             <button>
               <a
                 //target="_blank"
-                href=""//https://github.com/Pritthish20?tab=repositories
+                href="https://github.com/Pritthish20?tab=repositories"
                 class="px-5 py-2.5 relative rounded group font-medium text-white font-medium inline-block"
               >
                 <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-blue-100 to-blue-500"></span>
