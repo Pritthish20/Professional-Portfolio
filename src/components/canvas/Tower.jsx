@@ -59,7 +59,7 @@ const TowerCanvas = () => {
         <Suspense fallback={<CanvasLoader />}>
           <OrbitControls
             autoRotate={true}
-            autoRotateSpeed={isMobile ? 0.31:0.19}
+            autoRotateSpeed={isMobile ? 0.3:0.18}
             enableZoom={false}
             maxPolarAngle={Math.PI / 4}
             minPolarAngle={Math.PI / 4}
