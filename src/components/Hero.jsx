@@ -34,7 +34,7 @@ const Hero = () => {
           </p>
           <button>
               <a
-                href="https://docs.google.com/document/d/1QWTybhRht4KU0_Mywa-cnicrDZvR8kL6-xxS-vXgwQA/edit?usp=sharing"
+                href="https://docs.google.com/document/d/1ZkoA9fzblEWS5kt0TvoGsGI5XBhllMZqPQ0gAfzNgWY/edit?usp=sharing"
                 target="_blank"
                 class="px-5 py-2.5 relative rounded-2xl group font-medium text-white font-medium inline-block"
               >
