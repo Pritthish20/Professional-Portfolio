@@ -28,7 +28,7 @@ const Navbar = () => {
         </Link>
 
         <ul className="list-none hidden sm:flex felx-row gap-10">
-          <a href="http://github.com/" target="_blank">
+          <a href="https://github.com/Pritthish20" target="_blank">
             <img src={github} className="w-[100px] pl-16" alt="Github" />
           </a>
           {navLinks.map((Link) => (
