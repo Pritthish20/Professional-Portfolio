@@ -7,7 +7,9 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import linkedin from "./linkedin.svg";
-import movie_counter from "./movie_counter.png";
+import cineview from "./cineview.png";
+import poke_store from "./poke_store.png";
+import sudoku_solver from "./sudoku_solver.png";
 import weather_app from "./weather_app.png";
 
 export {
@@ -19,7 +21,9 @@ export {
   github,
   menu,
   close,
-  movie_counter,
   weather_app,
   linkedin,
+  cineview,
+  poke_store,
+  sudoku_solver,
 };

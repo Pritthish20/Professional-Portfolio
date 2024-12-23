@@ -44,7 +44,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 0.1)}
         className="mt-4 text-[#7D8DA1] text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a undergrad student at Delhi Technological University . I have around 2 years of experience in Frontend development continue to learn more to be full stack devlopment. I am very passionate and hardworking. My skills include HTML,CSS ,C++,DSA Javascript ,Bootstrap ,Reactjs, Tailwind etc 
+        I am a undergrad student at Delhi Technological University . I have around 2 years of experience in Frontend development continue to learn more to be full stack devlopment. I am very passionate and hardworking. My skills include HTML,CSS ,C++,DSA Javascript ,Bootstrap ,Reactjs, Tailwind ,Nodejs, Express etc 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">

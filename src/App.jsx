@@ -8,7 +8,6 @@ import {
   Works,
   End,
   StarsCanvas,
-  TowerCanvas,
 } from "./components";
 
 const App = () => {

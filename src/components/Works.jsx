@@ -1,6 +1,6 @@
 import React from "react";
 import { styles } from "../styles";
-import { movie_counter , weather_app} from "../assets";
+import { cineview , sudoku_solver , poke_store , weather_app} from "../assets";
 import { SectionWrapper } from "../hoc";
 
 const Cards = ({ image, title }) => {
@@ -36,8 +36,8 @@ const Works = () => {
             </p>
             <button>
               <a
-                //target="_blank"
-                href=""//https://github.com/Pritthish20?tab=repositories
+                target="_blank"
+                href="https://github.com/Pritthish20?tab=repositories"
                 class="px-5 py-2.5 relative rounded group font-medium text-white font-medium inline-block"
               >
                 <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-blue-100 to-blue-500"></span>
@@ -49,13 +49,11 @@ const Works = () => {
             </button>
           </div>
         </div>
-        <div className="flex flex-row gap-10">
-          <Cards image={movie_counter} title="Movie-counter" />
-          <Cards
-            className="absolute "
-            image={weather_app}
-            title="Weather App"
-          />
+        <div className="grid grid-cols-2 gap-10">
+          <Cards image={cineview} title="CineView" />
+          <Cards image={poke_store} title="PokéStore" />
+          <Cards image={weather_app} title="Weather App"/>
+          <Cards image={sudoku_solver} title="Sudoku Solver" />
         </div>
       </div>
     </section>

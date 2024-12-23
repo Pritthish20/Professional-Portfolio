@@ -23,7 +23,7 @@ export default {
       backgroundImage: {
         "hero-pattern":
           "url('/src/assets/3d-render-grunge-room-interior-with-foggy-atmosphere.jpg')",
-        "card": "url('/public/alpha_tower/textures/MAT_Metal_2_baseColor.png')",
+        "card": "url('/src/assets/3d-render-grunge-room-interior-with-foggy-atmosphere.jpg')",
         "circular":
           "repeating-radial-gradient(rgba(0,0,0,0.4) 40px,transparent 75px,transparent 230px)",
         "cirsmall":

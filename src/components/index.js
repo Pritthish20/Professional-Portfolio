@@ -1,4 +1,4 @@
-import { ProfileCanvas, StarsCanvas,TowerCanvas,CarCanvas,RingCanvas } from './canvas';
+import { ProfileCanvas, StarsCanvas } from './canvas';
 import Hero from './Hero';
 import Navbar from './Navbar';
 import About from './About';
@@ -17,7 +17,4 @@ export {
   End,
   ProfileCanvas, 
   StarsCanvas,
-  TowerCanvas,
-  CarCanvas,
-  RingCanvas
 }
